@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kater-mult
+- 👋 Hi, I’m Kate @kater-mult
 - 👀 I’m interested in javascript, drupal 9, UX 
 - 🌱 I’m currently learning everything all the time
 - 📫 How to reach me at kater@multco.us
