@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kate @kater-mult
-- 👀 I’m interested in javascript, drupal 9, UX, Adobe XD
+- 👀 I’m interested in javascript, drupal, UX, Adobe XD
 - 🌱 I’m currently learning everything all the time
 - 📫 How to reach me at kater@multco.us
 
