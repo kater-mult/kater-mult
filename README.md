@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kate @kater-mult
-- 👀 I’m interested in javascript, drupal, UX
-- 🌱 I’m currently learning everything all the time
+- 👀 I’m interested in javascript, drupal, twig, css, scss UX
+- 🌱 I’m currently working with react and drupal
 - 📫 How to reach me at kater@multco.us
 
 <!---
