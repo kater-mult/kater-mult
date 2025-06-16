@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kate @kater-mult
-- 👀 I’m interested in javascript, drupal, twig, css, scss UX
+- 👀 I’m interested in javascript, drupal, twig, css, scss & UX
 - 🌱 I’m currently working with react and drupal
 - 📫 How to reach me at kater@multco.us
 
